@@ -2,6 +2,23 @@
 
 **Some important tools required for Data Engineering projects.**
 
+Start all services
+```bash
+./start.sh
+```
+
+Stop all services
+```bash
+./stop.sh
+```
+
+Restart all services
+```bash
+./restart.sh
+```
+
+### **Services**
+
 * HDFS Namenode - [http://0.0.0.0:32763](http://0.0.0.0:32763)
 
 * Hive Server - [http://0.0.0.0:32759/](http://0.0.0.0:32759/)
